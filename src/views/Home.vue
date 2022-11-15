@@ -3,11 +3,13 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
-        <vuexy-logo />
+        <!-- <vuexy-logo /> -->
+        <img src="logo.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
+
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
+          Aidrop Sultan Explorer<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
