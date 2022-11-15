@@ -9,14 +9,14 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Aidrop Sultan Explorer<small class="flow-left">Beta</small>
+          Sultan Explorer<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
 
-    <p class="mb-1">
+    <!-- <p class="mb-1">
       Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
-    </p>
+    </p> -->
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
     </h2>
