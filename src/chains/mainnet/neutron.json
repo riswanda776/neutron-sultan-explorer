@@ -1,8 +1,8 @@
 {
     "chain_name": "NEUTRON",
     "coingecko": "Neutron",
-    "api": ["https://rest.quark.ntrn.info"],
-    "rpc": ["https://rpc.quark.ntrn.info:443"],
+    "api": ["https://rest.quark.ntrn.info","http://neutron.api.t.sultan-node.host"],
+    "rpc": ["https://rpc.quark.ntrn.info:443", "http://neutron.rpc.t.sultan-node.host:443"],
     "addr_prefix": "neutron",
     "coin_type": "639",
     "min_tx_fee": "5000",
